@@ -143,10 +143,10 @@ public class LinkedList {
         ll.addFirst(2);
         ll.addFirst(1);
         ll.addLast(3);
-        ll.addLast(4);
-        ll.add(2, 9);
-        // ll.removeFirst();
-        ll.removeLast();
+        ll.addLast(5);
+        ll.add(3, 4);
+         ll.removeFirst();
+        // ll.removeLast();
         ll.print();
          System.out.println(ll.size);
 

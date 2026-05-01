@@ -122,7 +122,7 @@ public class RecursiveSearch {
         // ll.reverse();
         // ll.print();
 
-        ll.deleteNthFromEnd(2);
+        ll.deleteNthFromEnd(3);
         ll.print();
         //System.out.println(ll.recSearch(3));
     }
